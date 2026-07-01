@@ -1,0 +1,74 @@
+<mjml>`
+
+<mj-head>
+
+    <mj-raw>
+      <meta name="color-scheme" content="light" />
+      <meta name="supported-color-schemes" content="light" />
+    </mj-raw>
+
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" />
+
+    <mj-attributes>
+
+      <mj-all font-family="Montserrat, Helvetica, Arial, sans-serif" />
+
+    </mj-attributes>
+
+  </mj-head>
+
+
+  <mj-body>
+<mj-section css-class="nav-section" background-color="#ffffff" padding="16px 0px 12px">
+      <mj-column width="600px" padding="0 32px 0">
+        <!-- View Online -->
+
+ <mj-text
+  align="center"
+  font-size="12px"
+  color="#8A8A8A"
+  padding="8px 8px 8px"
+  line-height="20px"
+>
+  <a href="%%view_email_url%%" style="color:#8A8A8A; text-decoration:underline;">
+    View this email online
+  </a>
+</mj-text>
+
+        <!-- Logo -->
+
+        <mj-image src="https://1039206484.rsc.cdn77.org/assets/Logos/JB-Logo-Header.png" alt="Joe Browns" width="120px" padding="0 0 0" align="center" />
+
+        <!-- Navigation -->
+
+        <mj-table align="center" padding="0" width="auto" css-class="nav-table">
+          <tr>
+            <td align="center" style=" font-size: 16px; line-height: 36px; color: #000000;">
+              <a href="https://www.joebrowns.co.uk/womens" style="color:#000000; text-decoration:none;">Women</a>
+            </td>
+
+            <td style="padding:0 10px; color:#cfcfcf; font-size:16px; line-height:36px;">|</td>
+
+            <td align="center" style=" font-size: 16px; line-height: 36px; color: #000000;">
+              <a href="https://www.joebrowns.co.uk/curve" style="color:#000000; text-decoration:none;">Curve</a>
+            </td>
+
+            <td style="padding:0 10px; color:#cfcfcf; font-size:16px; line-height:36px;">|</td>
+
+            <td align="center" style=" font-size: 16px; line-height: 36px; color: #000000;">
+              <a href="https://www.joebrowns.co.uk/petite" style="color:#000000; text-decoration:none;">Petite</a>
+            </td>
+
+            <td style="padding:0 10px; color:#cfcfcf; font-size:16px; line-height:36px;">|</td>
+
+            <td align="center" style=" font-size: 16px; line-height: 36px; color: #000000;">
+              <a href="https://www.joebrowns.co.uk/mens" style="color:#000000; text-decoration:none;">Men</a>
+            </td>
+          </tr>
+        </mj-table>
+
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
