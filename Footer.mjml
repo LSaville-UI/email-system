@@ -1,0 +1,112 @@
+<mjml>
+  <mj-head>
+
+    <mj-raw>
+      <meta name="color-scheme" content="light" />
+      <meta name="supported-color-schemes" content="light" />
+    </mj-raw>
+
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" />
+
+    <mj-attributes>
+
+      <mj-all font-family="Montserrat, Helvetica, Arial, sans-serif" />
+
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-wrapper padding="0" background-color="#ffffff">
+
+      <!-- Promo row -->
+      <mj-section background-color="#F9FAFB" padding="16px 32px">
+        <mj-group width="100%">
+
+          <mj-column width="33.33%">
+
+            <mj-text align="center" font-size="14px" font-weight="500" line-height="18px" color="#000000" padding="0">
+              Free<br />Returns
+            </mj-text>
+
+            <mj-text align="center" font-size="12px" font-weight="300" line-height="16px" color="#666666" padding="6px 4px 0">
+              UK, Ireland &amp; France
+            </mj-text>
+
+          </mj-column>
+
+          <mj-column width="33.33%">
+
+            <mj-text align="center" font-size="14px" font-weight="500" line-height="18px" color="#000000" padding="0">
+              Refer A<br />Friend
+            </mj-text>
+
+            <mj-text align="center" font-size="12px" font-weight="300" line-height="16px" color="#666666" padding="6px 4px 0">
+              Give £10, Save £10
+            </mj-text>
+
+          </mj-column>
+
+          <mj-column width="33.33%">
+
+            <mj-text align="center" font-size="14px" font-weight="500" line-height="18px" color="#000000" padding="0">
+              Rated<br />Exceptional
+            </mj-text>
+
+            <mj-text align="center" font-size="12px" font-weight="300" line-height="16px" color="#666666" padding="6px 4px 0">
+              4.8 Score on Feefo
+            </mj-text>
+
+          </mj-column>
+
+        </mj-group>
+      </mj-section>
+
+      <!-- Social row -->
+      <mj-section background-color="#EBEBEB" padding="16px 0">
+        <mj-column>
+
+          <mj-text align="center" font-size="14px" line-height="24px" color="#000000" padding="0 0 8px">
+            Follow Us:
+          </mj-text>
+
+          <mj-social mode="horizontal" align="center" icon-size="24px" padding="0 8px">
+            <mj-social-element src="https://1039206484.rsc.cdn77.org/assets/Icons/Social/Icon-Facebook.png" href="https://www.facebook.com/JoeBrowns" alt="Facebook" padding="0 8px" />
+            <mj-social-element src="https://1039206484.rsc.cdn77.org/assets/Icons/Social/Icon-Instagram.png" href="https://www.instagram.com/joebrowns" alt="Instagram" padding="0 8px" />
+            <mj-social-element src="https://1039206484.rsc.cdn77.org/assets/Icons/Social/Icon-X.png" href="https://x.com/joebrowns" alt="X" padding="0 8px" />
+            <mj-social-element src="https://1039206484.rsc.cdn77.org/assets/Icons/Social/Icon-Pinterest.png" href="https://uk.pinterest.com/joebrowns/" alt="Pinterest" padding="0 8px" />
+            <mj-social-element src="https://1039206484.rsc.cdn77.org/assets/Icons/Social/Icon-Youtube.png" href="https://www.youtube.com/user/joebrownscouk" alt="YouTube" padding="0 8px" />
+            <mj-social-element src="https://1039206484.rsc.cdn77.org/assets/Icons/Social/Icon-TikTok.png" href="https://www.tiktok.com/@joebrownsofficial" alt="TikTok" padding="0 8px" />
+          </mj-social>
+
+        </mj-column>
+      </mj-section>
+
+      <!-- Legal links -->
+      <mj-section background-color="#ffffff" padding="16px 24px">
+        <mj-column>
+
+          <mj-text align="center" font-size="14px" line-height="22px" color="#000000" padding="0">
+            <a href="https://www.joebrowns.co.uk/contact-us" style="color:#000000;text-decoration:underline;">Contact Us</a>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="https://www.joebrowns.co.uk/privacy" style="color:#000000;text-decoration:underline;">Privacy Policy</a>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="https://www.joebrowns.co.uk/online-catalogue" style="color:#000000;text-decoration:underline;">Online Catalogue</a>
+            &nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="{{ email.unsubscribe }}" style="color:#000000;text-decoration:underline;">Unsubscribe Me</a>
+          </mj-text>
+
+          <mj-text align="center" font-size="12px" line-height="20px" color="#686868" padding="16px 0 0">
+            Joe Browns | Kandy Works | Brown Lane East | Holbeck | Leeds | LS11 0BT
+          </mj-text>
+
+          <mj-text align="center" font-size="12px" line-height="20px" color="#686868" padding="8px 0 0">
+            0113 270 6655 &nbsp;&nbsp;|&nbsp;&nbsp; Company Registration Number: 02540247
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>
