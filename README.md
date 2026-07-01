@@ -35,6 +35,7 @@ Reference images and supporting assets.
 | Resource | Description |
 |----------|-------------|
 | [Email Design System (Figma)](https://www.figma.com/design/90O4qlGAkYihcMuhOplO9c/Email-Design-System?node-id=3005-113&t=EvPH3Duu73lWcGYf-1) | Master design file containing reusable email components and creative assets. |
+|[MJML](https://mjml.io/) | MJML Site with documentation & online editor & compiler. |
 
 ---
 
