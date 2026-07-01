@@ -30,6 +30,14 @@ Reference images and supporting assets.
 
 ---
 
+## 🔗 Links
+
+| Resource | Description |
+|----------|-------------|
+| [Email Design System (Figma)](https://www.figma.com/design/90O4qlGAkYihcMuhOplO9c/Email-Design-System?node-id=3005-113&t=EvPH3Duu73lWcGYf-1) | Master design file containing reusable email components and creative assets. |
+
+---
+
 ## Workflow
 
 1. Create or update a component.
@@ -63,3 +71,14 @@ SocialPanel.mjml
 - Accessibility standards
 - Template documentation
 - Version history
+
+---
+
+## Useful Files
+
+1. Create or update a component.
+2. Test in MJML.
+3. Test in Bloomreach.
+4. Commit changes with a clear description.
+5. Merge into the main branch when approved.
+
